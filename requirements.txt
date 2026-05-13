@@ -1,0 +1,14 @@
+streamlit
+plotly
+pandas
+streamlit-lottie
+python-dotenv
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+scikit-learn
+prophet
+torch
+tensorflow
+transformers
