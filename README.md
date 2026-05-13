@@ -41,7 +41,7 @@ Focus Pattern Detection: Uses clustering (KMeans) to identify productivity cycle
 
 Clone the repository:
 bash
-git clone https://github.com/yourusername/ai-daily-life-optimizer.git
+git clone https://github.com/yourusername/AI-daily-life-optimizer.git
 cd ai-daily-life-optimizer
 Create and activate a virtual environment:
 
